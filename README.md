@@ -1,1 +1,1 @@
-This is the README file for the workout generator project.
+This is a frontpage to take in a natural language prompt from a user and generate an appropraite workout plan. The workout plan will include relevant explanatory videos from youtube as well as further information from wikipedia.
