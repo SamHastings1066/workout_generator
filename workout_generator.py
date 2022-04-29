@@ -27,7 +27,7 @@ st.markdown(
 )
 
 user_input = st.text_area(label = 'Please describe the specific workout you are interested in today',
-value = 'I am outdoors in a park and have no gym equipment. I want to exercise my legs. I have 60 minutes available. Please create a warm up, generate three leg exercises, and then a warm down. I have injured my left ankle so please can you explain how to complete each exercise without further injuring my ankle',
+value = 'I am outdoors in a park and have no gym equipment. I want to exercise my legs. I have 60 minutes available. Please create a warm up, generate three leg exercises, and then a warm down.',
 help = '''Analysis is completed using the GPT3 Davinci model.''')
 
 # Progress bar for workout generation function
